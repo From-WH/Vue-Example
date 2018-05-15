@@ -1,0 +1,9 @@
+ol li {
+    list-style: none;
+    font-size: 40px;
+    width: 300px;
+    text-align: center;
+}
+.active{
+    background-color: red;
+}
